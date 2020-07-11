@@ -2,7 +2,7 @@
     <v-toolbar dense>
       <!-- <v-app-bar-nav-icon></v-app-bar-nav-icon> -->
 
-      <v-toolbar-title>Bitfumes</v-toolbar-title>
+      <v-toolbar-title>Agency-it</v-toolbar-title>
 
       <v-spacer></v-spacer>
       <div class="hidden-sm-and-down">
