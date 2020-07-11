@@ -23,7 +23,7 @@ export default {
   data(){
     return {
       items:[
-        {title : 'Forum' , to:'/forum',show:User.loggedIn()},
+        {title : 'All Users' , to:'/forum',show:User.loggedIn()},
         {title : 'Login' , to : '/login', show: !User.loggedIn()},
         {title : 'Logout' , to : '/logout', show:User.loggedIn()},
       ]
